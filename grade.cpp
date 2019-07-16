@@ -1,4 +1,4 @@
-/*สุวพิชญ์ ริลา 
+/*Suwapich rila 
 6206021630049
 	sec A */
 #include <iostream>
